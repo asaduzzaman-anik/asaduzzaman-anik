@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/readme-banner.svg" alt="Md Asaduzzaman Anik — Full Stack Developer" width="100%" />
+  <img src="./assets/readme-banner.png" alt="Md Asaduzzaman Anik — Full Stack Developer" width="100%" />
 
   <h1>Hi 👋, I'm Md Asaduzzaman Anik</h1>
 
@@ -14,7 +14,6 @@
   [![Profile views](https://komarev.com/ghpvc/?username=asaduzzaman-anik&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/asaduzzaman-anik)
   [![GitHub stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/asaduzzaman-anik&query=$.stars&label=Stars&color=yellow&logo=github&style=flat)](https://github.com/asaduzzaman-anik?tab=repositories)
   [![GitHub followers](https://img.shields.io/github/followers/asaduzzaman-anik?style=flat&logo=github&label=Follow)](https://github.com/asaduzzaman-anik?tab=followers)
-  [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff69b4?style=flat)](https://github.com/asaduzzaman-anik)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anik-asaduzzaman/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=flat&logo=vercel&logoColor=white)](https://asaduzzaman-anik.github.io/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asaduzzamananik12@gmail.com)
