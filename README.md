@@ -4,19 +4,26 @@
 
   <h1>Hi 👋, I'm Md Asaduzzaman Anik</h1>
 
-  <h3>🚀 Full Stack Developer | Laravel · React | Educator</h3>
+  <h3>Full Stack Developer | Python · Django · DRF · React | PHP · Laravel</h3>
 
-  <i>Building scalable CRM, POS &amp; dashboard systems. Passionate about clean architecture, teaching, and shipping real-world products.</i>
+  <i>Building business applications, REST APIs, dashboards, CRM/POS systems, and full-stack web applications.</i>
 
   <br /><br />
 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+  <br />
+
   [![X Follow](https://img.shields.io/badge/Follow-@aww__nik-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/aww_nik)
-  [![Profile views](https://komarev.com/ghpvc/?username=asaduzzaman-anik&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/asaduzzaman-anik)
-  [![GitHub stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/asaduzzaman-anik&query=$.stars&label=Stars&color=yellow&logo=github&style=flat)](https://github.com/asaduzzaman-anik?tab=repositories)
-  [![GitHub followers](https://img.shields.io/github/followers/asaduzzaman-anik?style=flat&logo=github&label=Follow)](https://github.com/asaduzzaman-anik?tab=followers)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anik-asaduzzaman/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=flat&logo=vercel&logoColor=white)](https://asaduzzaman-anik.github.io/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asaduzzamananik12@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-asaduzzaman--anik-181717?style=flat&logo=github&logoColor=white)](https://github.com/asaduzzaman-anik)
 
   <br />
 
@@ -28,113 +35,112 @@
 
 ## About Me
 
-I am a **Full Stack Developer** specializing in the Laravel ecosystem, PHP, and React. I architect and ship production systems — CRM platforms, POS solutions, eCommerce integrations, and modular dashboards — with a focus on clean architecture, maintainability, and real business outcomes.
+I am a **Full Stack Developer** with professional production experience in **Laravel / PHP**, and hands-on experience building full-stack applications with **Python**, **Django**, **Django REST Framework (DRF)**, and **React**.
 
-My background spans software engineering, university teaching, and data analysis, which helps me translate complex requirements into scalable, well-documented products.
+In production I have built CRM, POS, and eCommerce systems, plus reusable Laravel modules — relational databases, scheduled jobs, REST APIs, and React interfaces shaped with clients. Alongside that work, my Django projects cover multi-warehouse inventory and hospital operations: Django ORM, JWT authentication, role-based access, Celery, Redis, and React frontends that consume those APIs.
 
-**Highlights**
+I have a **B.Sc. in Computer Science (Data Science)** and university teaching experience in web development and software engineering, including Python and JavaScript.
 
 | | |
 |---|---|
-| 🎓 **120+** students mentored in full-stack development | 🚀 **3+** major systems delivered to production |
-| 🧑‍🏫 **15+** capstone projects supervised | 💼 **1+** years professional engineering experience |
-| 🏛️ **B.Sc. Computer Science** (Data Science) — Multimedia University, Malaysia | 🌍 Remote collaboration with clients & teams |
+| 🎓 **120+** students mentored in full-stack development | 🧑‍🏫 **15+** capstone projects supervised |
+| 💼 Professional Laravel/PHP engineering since 2025 | 🏛️ **B.Sc. Computer Science** — Multimedia University, Malaysia |
 
 ---
 
 ## Tech Stack
 
 ### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Python · Django · Django REST Framework · PHP · Laravel · REST APIs · Celery · Redis
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+React · TypeScript · JavaScript · Vite · Next.js · Tailwind CSS · HTML5 · CSS3
 
-### Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Database
+MySQL · PostgreSQL · Django ORM · Eloquent ORM · Relational database design
+
+### Authentication & API
+JWT · SimpleJWT · RBAC · Custom DRF permissions · CORS · OpenAPI / Swagger
+
+### Testing & DevOps
+pytest · Vitest · Docker · Git
 
 ---
 
-## Featured Projects
+## 🐍 Django & Python Projects
 
-### 🛒 CRM & POS System — [eclipseautoparts.com](https://eclipseautoparts.com/)
-Full-featured CRM & POS platform for an auto parts business, with eCommerce integration, Account 360 View, Churn Risk Detection, and Account Health Monitoring.
+### Inventory Management System · [GitHub](https://github.com/asaduzzaman-anik/django-inventory-management)
 
-- Automated daily analysis pipelines with Laravel Scheduler
-- Reduced manual customer analysis effort and improved decision-making
-- **Stack:** Laravel · PHP · MySQL · React · Alpine.js · Tailwind
+Hands-on portfolio project for multi-warehouse inventory: purchase orders, sales workflows, stock reservations, and an immutable inventory ledger.
 
----
+- Django REST Framework and Django ORM, with `transaction.atomic` and `select_for_update` for concurrency-safe stock updates
+- SimpleJWT, role-based permissions, and warehouse-level access control
+- Celery and Redis for stock alerts, plus CSV and Excel reporting
+- React, TypeScript, Vite, and Tailwind admin UI, with pytest and Vitest
+- Docker Compose for the API, MySQL, and Redis
 
-### 🧩 Laradashboard Platform — [laradashboard.com](https://laradashboard.com/) · [GitHub](https://github.com/laradashboard/laradashboard)
-Modular Laravel dashboard platform with a plug-and-play architecture and reusable UI components.
+### Hospital Management System
 
-- Designed reusable modules, backend logic, and database structures
-- Integrated React-based UI components for a flexible dashboard experience
-- **Stack:** Laravel · React · REST APIs · MySQL
+Hands-on full-stack project for hospital operations, split across an API and a React client.
 
----
-
-### 🛍️ Shopora — E-commerce App · [GitHub](https://github.com/asaduzzaman-anik/Shopora)
-Modern e-commerce web application for browsing products, viewing details, and managing carts with a smooth shopping UX.
-
-- **Stack:** React · JavaScript
+- [API repository](https://github.com/asaduzzaman-anik/Hospital-Management-API) — Django REST Framework, SimpleJWT, and custom DRF permissions for Admin, Doctor, Patient, and Receptionist
+- Appointment lifecycle (pending, approved, completed, cancelled), plus prescriptions, medicines, and billing
+- Filtering, search, and pagination on list endpoints
+- [Frontend repository](https://github.com/asaduzzaman-anik/hospital-management-frontend-react) — React, Vite, Tailwind, protected routes, and Axios against the API
 
 ---
 
-### 🏥 Hospital Management API · [GitHub](https://github.com/asaduzzaman-anik/Hospital-Management-API)
-Backend API for hospital management workflows and data operations.
+## 🐘 Laravel & PHP Projects
 
-- **Stack:** Python
+### Eclipse Auto Parts — CRM / POS / eCommerce · [eclipseautoparts.com](https://eclipseautoparts.com/)
+
+Professional production system for an auto parts business, built in my role at SquartUp.
+
+- CRM, POS, and eCommerce on Laravel, PHP, and MySQL
+- Account 360, customer health monitoring, and churn-risk analysis
+- Scheduled analysis pipelines with Laravel Scheduler
+- React, Alpine.js, and Tailwind on the interface
+
+### Laradashboard · [Live](https://laradashboard.com/) · [GitHub](https://github.com/laradashboard/laradashboard)
+
+Professional work on a modular Laravel dashboard platform.
+
+- Reusable Laravel / PHP modules, REST APIs, and MySQL
+- Dashboard architecture with React UI components
 
 ---
 
 ## Professional Experience
 
 ### Full Stack Developer — SquartUp
-**July 2025 – Present**
+**January 2025 – Present**
 
-- Architected and developed a production CRM & POS system ([eclipseautoparts.com](https://eclipseautoparts.com/)) with eCommerce, analytics, and churn detection
-- Engineered automated daily analysis pipelines using Laravel Scheduler
-- Building plug-and-play modules for [Laradashboard](https://laradashboard.com/) — reusable architecture, backend logic, and React UI
-- Collaborating remotely with clients to turn business requirements into maintainable codebases
+Production engineering role. The primary stack here is **Laravel / PHP**.
 
-`Laravel` `PHP` `MySQL` `React` `Next.js` `Tailwind` `REST API`
+- Build and maintain a production CRM, POS, and eCommerce system at [eclipseautoparts.com](https://eclipseautoparts.com/)
+- Relational database work in MySQL, with scheduled background processing via Laravel Scheduler
+- Reusable Laravel modules for [Laradashboard](https://laradashboard.com/) — backend logic, REST APIs, and React UI
+- Collaborate with clients to turn business requirements into maintainable implementations
+
+`Laravel` `PHP` `MySQL` `Eloquent` `React` `Alpine.js` `Tailwind` `REST API`
 
 ---
 
 ### Lecturer (Computer Science) — Royal University of Dhaka
-**May 2022 – October 2025**
+**May 2022 – April 2025**
 
-- Taught Web Development, Software Engineering, and Programming Fundamentals
-- Mentored **120+** students in full-stack practices, Git, and modern UI/UX
-- Supervised **15+** final-year capstone projects from ideation to deployment
-- Led workshops on AI/ML and full-stack development; evaluated **500+** assessments
+- Taught Web Development, Software Engineering, and Programming Fundamentals (Python, JavaScript, and related coursework)
+- Mentored **120+** students in full-stack practice and Git
+- Supervised **15+** capstone projects and evaluated **500+** assessments
 
-`Python` `JavaScript` `C++` `SQL` `HTML` `CSS` `Data Structures`
+`Python` `JavaScript` `SQL` `HTML` `CSS`
 
 ---
 
 ### Data Analyst Intern — HappyFresh Malaysia
 **March 2019 – June 2019**
 
-- Built interactive dashboards and reports with Tableau and Redash
-- Analyzed large datasets, designed ETL pipelines, and delivered insights to stakeholders
-
-`Python` `PostgreSQL` `Tableau` `Redash` `APIs`
+Dashboards and stakeholder reports with Tableau and Redash, including PostgreSQL, Python, and ETL.
 
 ---
 
@@ -142,6 +148,20 @@ Backend API for hospital management workflows and data operations.
 
 **Bachelor of Computer Science (Data Science)**  
 Multimedia University (MMU) — Cyberjaya Campus, Malaysia
+
+---
+
+## What I Bring
+
+- End-to-end full-stack delivery, from data model and API to a React interface
+- Django and Django REST Framework: JWT, RBAC, custom permissions, and ORM-level business rules
+- Professional Laravel / PHP experience on live CRM, POS, and eCommerce systems
+- React frontends in both ecosystems, including TypeScript and Vite
+- Relational database design with MySQL, Django ORM, and Eloquent
+- REST API design, authentication, and role-based access control
+- Background processing with Celery and Redis, and scheduled jobs in Laravel
+- Testing with pytest and Vitest, and Docker for local services
+- Client communication, and teaching experience that shows up as clearer documentation
 
 ---
 
@@ -159,33 +179,21 @@ Multimedia University (MMU) — Cyberjaya Campus, Malaysia
 
 ---
 
-## What I Bring
-
-- End-to-end ownership of full-stack features — from database design to polished UI
-- Strong Laravel / PHP backend architecture with React frontends
-- Experience shipping real business systems (CRM, POS, dashboards, eCommerce)
-- Clear communication with clients and the ability to mentor and document effectively
-- Data-aware mindset from CS Data Science training and analytics experience
-
----
-
 ## Let's Work Together
 
-I'm open to **full-time**, **contract**, and **freelance** opportunities — remote or hybrid.
+I'm open to **full-time**, **contract**, and **freelance** opportunities — remote or hybrid — for Django/Python and Laravel/PHP full-stack roles.
 
 | | |
 |---|---|
 | 🌐 **Portfolio** | [asaduzzaman-anik.github.io](https://asaduzzaman-anik.github.io/) |
 | 💼 **LinkedIn** | [linkedin.com/in/anik-asaduzzaman](https://www.linkedin.com/in/anik-asaduzzaman/) |
 | 🐙 **GitHub** | [github.com/asaduzzaman-anik](https://github.com/asaduzzaman-anik) |
-| ✉️ **Email** | [asaduzzamananik12@gmail.com](mailto:asaduzzamananik12@gmail.com) |
+| ✉️ **Email** | [asaduzzamananik12@gmail.com](mailto:anik.builds@gmail.com) |
 
 ---
 
 <div align="center">
 
-⭐ If you find my work interesting, feel free to star this repository or reach out — I'd love to connect.
-
-*Built with Next.js · Tailwind CSS · Framer Motion*
+⭐ If you find my work interesting, feel free to star a repository or reach out — I'd love to connect.
 
 </div>
