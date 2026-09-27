@@ -188,7 +188,7 @@ I'm open to **full-time**, **contract**, and **freelance** opportunities — rem
 | 🌐 **Portfolio** | [asaduzzaman-anik.github.io](https://asaduzzaman-anik.github.io/) |
 | 💼 **LinkedIn** | [linkedin.com/in/anik-asaduzzaman](https://www.linkedin.com/in/anik-asaduzzaman/) |
 | 🐙 **GitHub** | [github.com/asaduzzaman-anik](https://github.com/asaduzzaman-anik) |
-| ✉️ **Email** | [asaduzzamananik12@gmail.com](mailto:anik.builds@gmail.com) |
+| ✉️ **Email** | [anik.builds@gmail.com](mailto:anik.builds@gmail.com) |
 
 ---
 
